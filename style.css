@@ -1,1 +1,27 @@
+body {
+    margin: 0 30px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
 
+#main-info img {
+    margin-bottom: 10px;
+    height: 300px;
+}
+footer {
+    margin-top: 20px;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+footer img {
+    height: 30px;
+}
+footer a {
+    margin-right: 10px;
+}
