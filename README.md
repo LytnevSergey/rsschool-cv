@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 # rsschool-cv
-=======
 https://LytnevSergey.github.io/rsschool-cv/
->>>>>>> 0bd6ae0 (refactor: update README.md)
+https://lytnevsergey.github.io/rsschool-cv/cv
